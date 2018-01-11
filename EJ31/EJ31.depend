@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1510665018 source:c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 7\ej31\func.c
+	"func.h"
+	<stdio.h>
+	<stdlib.h>
+
+1510664761 c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 7\ej31\func.h
+
+1511260206 source:c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 7\ej31\main.c
+	<stdio.h>
+	<stdlib.h>
+	"func.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1511266134 source:c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 7\ej32\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1511266189 source:c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 7\ej32\func.c
+	"header.h"
+
+1511266351 c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 7\ej32\header.h
+	<stdio.h>
+	<stdlib.h>
+

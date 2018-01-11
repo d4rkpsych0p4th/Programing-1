@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1510251386 source:c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 6\ej29\ej29\main.c
+	"header.h"
+
+1510251422 c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 6\ej29\ej29\header.h
+
+1510251472 source:c:\users\ochoa\desktop\universidad\introducción a la programación\hojas\hoja 6\ej29\ej29\file.c
+	"header.h"
+
