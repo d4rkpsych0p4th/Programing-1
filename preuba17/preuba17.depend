@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508850578 source:/home/d4rkpsych0p4th/Desktop/programming/preuba17/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

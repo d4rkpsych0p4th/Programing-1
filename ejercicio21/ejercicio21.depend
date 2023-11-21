@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508844291 source:/home/d4rkpsych0p4th/Desktop/programming/ejercicio21/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
